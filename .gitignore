@@ -1,0 +1,12 @@
+*.csv
+*.zip
+
+# Bỏ qua môi trường ảo 
+venv/
+.env
+
+# Bỏ qua file rác hệ thống
+.DS_Store
+__pycache__/
+
+*.joblib
