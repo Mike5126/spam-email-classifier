@@ -43,5 +43,5 @@ The notebook defines a `predict_new_email()` function that loads the saved model
 
 ```python
 predict_new_email("Congratulations! You won a free iPhone, click here now!!!")
-# -> Prediction: SPAM (spam probability: 98.50%)
+# -> Prediction: SPAM 🚫  (spam probability: 52.50%)
 ```
